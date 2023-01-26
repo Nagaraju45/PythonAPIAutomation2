@@ -1,0 +1,14 @@
+Test JSONPath
+-------------
+url: https://jsonpath.com/
+
+API Requests
+------------
+url: https://reqres.in/
+
+API pre-requisite
+----------------
+by default json
+install requests, jsonpath
+>pip install requests
+>pip install jsonpath
