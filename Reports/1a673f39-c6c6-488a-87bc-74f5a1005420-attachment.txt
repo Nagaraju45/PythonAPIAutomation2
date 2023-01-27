@@ -1,1 +1,0 @@
-{"status":"true","data":{"id":4180498,"first_name":"Testing","middle_name":"K","last_name":"World","date_of_birth":"06/07/1997"}}

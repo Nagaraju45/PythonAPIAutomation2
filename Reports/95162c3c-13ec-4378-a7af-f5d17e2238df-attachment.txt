@@ -1,4 +1,0 @@
-4180574
-{"status":"true","msg":"Add  data success"}
-{"status":"true","msg":"Add  data success"}
-{"status":"true","data":{"first_name":"Testing","middle_name":"KK","last_name":"World","date_of_birth":"06/07/1999","TechnicalDetails":[{"id":90194,"language":["Java","C#"],"yearexp":"2","lastused":"2022","st_id":"4180574"}],"Address":[{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"4180574"},{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"4180574"}]}}
